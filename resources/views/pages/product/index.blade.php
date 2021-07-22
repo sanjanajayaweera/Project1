@@ -16,7 +16,7 @@
             </div>
             <div class="col-lg-4 text-right">
                 <a href="{{route('product.create')}}" class=" btn btn-sm btn-neutral float-right">
-                    <i class="fas fa-plus-circle"></i> Add New
+                    <i class="fas fa-plus-circle"></i> Add  New
                 </a>
             </div>
         </div>
